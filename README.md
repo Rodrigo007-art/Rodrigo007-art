@@ -60,7 +60,7 @@
   src="https://raw.githubusercontent.com/Rodrigo007-art/Rodrigo007-art/snake-output/snake.svg"
   alt="Snake animation"
 />
-  />
+  
 </picture>
 
 ###
