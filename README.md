@@ -3,7 +3,12 @@
 </div>
 
 ###
-<h2 data-importer="text" align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=18B800&center=true&width=600&lines=Hi%2C+I'm+Rodrigo+Silva+👋;Systems+Development+Student+💻;Brazil+🇧🇷+MS;Coding+for+fun+and+learning+🚀;Always+learning+new+technologies)](https://git.io/typing-svg)
+
+</div>
 
 ###
 <div data-importer="stats" align="center">
