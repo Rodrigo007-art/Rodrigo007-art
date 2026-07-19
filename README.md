@@ -44,7 +44,22 @@
 <img data-importer="profile-views" align="center" src="https://count.getloli.com/@:Rodrigo007-art?theme=asoul&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 
 ###
+###
+<br clear="both">
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Rodrigo007-art/Rodrigo007-art/snake-output/snake.svg" alt="Snake animation" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yuregamer07-arch/yuregamer07-arch/snake-output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yuregamer07-arch/yuregamer07-arch/snake-output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Snake animation"
+    src="https://raw.githubusercontent.com/yuregamer07-arch/yuregamer07-arch/snake-output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 ###
