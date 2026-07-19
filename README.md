@@ -8,7 +8,11 @@
   <img src="https://streak-stats.demolab.com?user=Rodrigo007-art&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3&user=Rodrigo007-art" height="150" alt="streak graph"  />
 </div>
 
+
+<img src="./assets/chika.gif" width="200">
+
 ###
+
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
