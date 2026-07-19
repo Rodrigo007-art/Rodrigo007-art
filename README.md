@@ -44,23 +44,23 @@
 
 ###
 ###
+
 <br clear="both">
 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/yuregamer07-arch/yuregamer07-arch/snake-output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Rodrigo007-art/Rodrigo007-art/snake-output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/yuregamer07-arch/yuregamer07-arch/snake-output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Rodrigo007-art/Rodrigo007-art/snake-output/github-contribution-grid-snake.svg"
   />
   <img
-  data-importer="snake"
-  src="https://raw.githubusercontent.com/Rodrigo007-art/Rodrigo007-art/snake-output/snake.svg"
-  alt="Snake animation"
-/>
-  
+    data-importer="snake"
+    src="https://raw.githubusercontent.com/Rodrigo007-art/Rodrigo007-art/snake-output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+  />
 </picture>
 
 ###
