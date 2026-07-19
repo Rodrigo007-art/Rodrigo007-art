@@ -56,8 +56,10 @@
     srcset="https://raw.githubusercontent.com/yuregamer07-arch/yuregamer07-arch/snake-output/github-contribution-grid-snake.svg"
   />
   <img
-    alt="Snake animation"
-    src="https://raw.githubusercontent.com/yuregamer07-arch/yuregamer07-arch/snake-output/github-contribution-grid-snake.svg"
+  data-importer="snake"
+  src="https://raw.githubusercontent.com/Rodrigo007-art/Rodrigo007-art/snake-output/snake.svg"
+  alt="Snake animation"
+/>
   />
 </picture>
 
